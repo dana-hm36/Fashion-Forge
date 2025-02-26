@@ -1,1 +1,2 @@
 # Fashion-Forge
+This repository contains two Jupyter notebooks designed to experiment with different tokenization techniques for text preprocessing, aimed at improving image generation using a Stable Diffusion model. The first notebook focuses on testing various tokenization methods to clean the input text, while the second notebook excludes BERT tokenization and stop words for direct use in the model. Both notebooks involve experimenting with parameter adjustments to optimize the image output based on text input.
